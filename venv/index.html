@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Cartas de Baralho</title>
+</head>
+
+<body>
+    <h1>Cartas de Baralho</h1>
+    <img id="carta_imagem" src="" alt="Carta de Baralho">
+
+    <script>
+        // JavaScript para fazer a solicitação à API e atualizar a imagem da carta
+        function pegarCarta() {
+            fetch('https://www.deckofcardsapi.com/api/deck/1jm3vbs518ut/draw/?count=1')
+                .then(response => response.json())
+                .then(data => {
+                    const carta = data.cards[0];
+                    const cartaImagem = document.getElementById('carta_imagem');
+                    cartaImagem.src = carta.image;
+                    cartaImagem.alt = `${carta.value} de ${carta.suit}`;
+                })
+                .catch(error => console.error('Erro ao buscar carta:', error));
+        }
+
+        // Chama a função para obter a carta quando a página carregar
+        window.onload = pegarCarta;
+    </script>
+</body>
+
+</html>
