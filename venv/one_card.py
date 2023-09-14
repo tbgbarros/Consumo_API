@@ -3,7 +3,7 @@ import tkinter as tk
 from PIL import Image, ImageTk
 from io import BytesIO  # usei para baixar a imgem pois por url a imagem nao abre
 
-URL = 'https://www.deckofcardsapi.com/api/deck/1jm3vbs518ut/draw/?count=2'
+URL = 'https://www.deckofcardsapi.com/api/deck/1jm3vbs518ut/draw/?count=6'
 
 
 def pegar_carta():
