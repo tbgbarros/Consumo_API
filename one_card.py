@@ -36,7 +36,7 @@ def pegar_carta():
 janela = tk.Tk()
 janela.geometry("300x380")
 janela.title("BLACKJACK")
-tk.Label(text="QUE COMEÇE OS JOGOS").pack()
+tk.Label(text="BEM VINDO AO BLACKJACK DO PAI").pack()
 
 botao = tk.Button(janela, text="PEDIR CARTA", command=pegar_carta)
 botao.pack()
