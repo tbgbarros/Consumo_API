@@ -14,16 +14,16 @@ Foi criado um codigo simples consumindo a API de Blackjack que permite simular u
  
   
 <h2># Requeriments do projeto com suas versões</h2>
-* certifi==2023.7.22
-* charset-normalizer==3.2.0
-* filelock==3.12.3
-* distlib==0.3.7
-* idna==3.4
-* Pillow==10.0.0
-* platformdirs==3.10.0
-* requests==2.31.0
-* urllib3==2.0.4
-* virtualenv==20.24.5
+<p>certifi==2023.7.22</p>
+<p>charset-normalizer==3.2.0</p>
+<p>filelock==3.12.3</p>
+<p>distlib==0.3.7</p>
+<p>idna==3.4</p>
+<p>Pillow==10.0.0</p>
+<p>platformdirs==3.10.0</p>
+<p>requests==2.31.0</p>
+<p>urllib3==2.0.4</p>
+<p>virtualenv==20.24.5</p>
 
 <h2>Como jogar</h2>
 1 - Clone ou baixe este repositório para o seu computador.
@@ -35,5 +35,5 @@ Foi criado um codigo simples consumindo a API de Blackjack que permite simular u
 <p>Ao clicar em PEDIR CARTA ele gera sua primeira carta</p>
 <p>Aos cliques posteriores ele continua entregando as cartas randomizadas</p>
 
-<h1>Criado por <i>Thiago Barros Gomes</i></h1>
+<h3>Criado por <b><i>Thiago Barros Gomes</i></b></h3>
 
