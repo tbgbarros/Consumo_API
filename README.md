@@ -36,5 +36,5 @@ Ao clicar em PEDIR CARTA ele gera sua primeira carta<br>
 Aos cliques posteriores ele continua entregando as cartas randomizadas
 
 
-<h3>Criado por <b><i>Thiago Barros Gomes</i></b></h3>
+<h5>Criado por <b><i>Thiago Barros Gomes</i></b></h5>
 
