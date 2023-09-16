@@ -22,8 +22,8 @@ Foi criado um codigo simples consumindo a API de Blackjack que permite simular u
 <p>Pillow==10.0.0</p>
 <p>platformdirs==3.10.0</p>
 <p>requests==2.31.0</p>
-<p>urllib3==2.0.4</p>
-<p>virtualenv==20.24.5</p>
+urllib3==2.0.4
+virtualenv==20.24.5
 
 <h2>Como jogar</h2>
 1 - Clone ou baixe este repositório para o seu computador.
