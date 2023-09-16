@@ -39,7 +39,7 @@ def iniciar_game():
         carta1.config(image=foto1)
         carta1.image = foto1
 
-botao = tk.Button(janela, text="INICIAR GAME", command=iniciar_game)
+botao = tk.Button(janela, text="PEDIR CARTA", command=iniciar_game)
 botao.pack()
 
 
