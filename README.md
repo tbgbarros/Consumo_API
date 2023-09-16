@@ -26,9 +26,9 @@ urllib3==2.0.4<br>
 virtualenv==20.24.5
 
 <h2>Como jogar</h2>
-1 - Clone ou baixe este repositório para o seu computador.
-2 - Abra um terminal e navegue até o diretório onde o código da API está localizado.
-3 - Execute o arquivo Python para iniciar o jogo: python one_card.py
+1 - Clone ou baixe este repositório para o seu computador.<br>
+2 - Abra um terminal e navegue até o diretório onde o código da API está localizado.<br>
+3 - Execute o arquivo Python para iniciar o jogo: python one_card.py<br>
 
 <h2>Funcionalidades</h2>
 Utilizado 2 descks de cartas rodados aleatoriamente<br>
