@@ -8,9 +8,9 @@ Foi criado um codigo simples consumindo a API de Blackjack que permite simular u
 
 <h2> Pré-requisitos </h2>
   Necessario Python 3.xx
-  * requests: Usada para fazer solicitações HTTP à API de baralho de cartas.
-  * tkinter: Biblioteca de interface gráfica para criar a interface do jogo.
-  * Pillow: Usada para manipulação de imagens, exibição das cartas de baralho.
+  <br>* requests: Usada para fazer solicitações HTTP à API de baralho de cartas.
+  <br>* tkinter: Biblioteca de interface gráfica para criar a interface do jogo.
+  <br>* Pillow: Usada para manipulação de imagens, exibição das cartas de baralho.
  
   
 <h2> Requeriments do projeto com suas versões</h2>
