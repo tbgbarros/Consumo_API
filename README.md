@@ -14,15 +14,15 @@ Foi criado um codigo simples consumindo a API de Blackjack que permite simular u
  
   
 <h2> Requeriments do projeto com suas versões</h2>
-<p>certifi==2023.7.22</p>
-<p>charset-normalizer==3.2.0</p>
-<p>filelock==3.12.3</p>
-<p>distlib==0.3.7</p>
-<p>idna==3.4</p>
-<p>Pillow==10.0.0</p>
-<p>platformdirs==3.10.0</p>
-<p>requests==2.31.0</p>
-urllib3==2.0.4
+certifi==2023.7.22<br>
+charset-normalizer==3.2.0<br>
+filelock==3.12.3<br>
+distlib==0.3.7<br>
+idna==3.4<br>
+Pillow==10.0.0<br>
+platformdirs==3.10.0<br>
+requests==2.31.0<br>
+urllib3==2.0.4<br>
 virtualenv==20.24.5
 
 <h2>Como jogar</h2>
