@@ -31,9 +31,10 @@ virtualenv==20.24.5
 3 - Execute o arquivo Python para iniciar o jogo: python one_card.py
 
 <h2>Funcionalidades</h2>
-<p>Ultilizado 2 descks de cartas rodados aleatoriamente</p>
-<p>Ao clicar em PEDIR CARTA ele gera sua primeira carta</p>
-<p>Aos cliques posteriores ele continua entregando as cartas randomizadas</p>
+Utilizado 2 descks de cartas rodados aleatoriamente<br>
+Ao clicar em PEDIR CARTA ele gera sua primeira carta<br>
+Aos cliques posteriores ele continua entregando as cartas randomizadas
+
 
 <h3>Criado por <b><i>Thiago Barros Gomes</i></b></h3>
 
