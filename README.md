@@ -1,19 +1,19 @@
 # Consumo_API
 
-<h1>- API de BLACKJACK (21) em Python</h1>
+<h1> API de BLACKJACK (21) em Python</h1>
 
 ![image](https://github.com/tbgbarros/Consumo_API/assets/111811766/2d56623d-9ff6-465d-8ab8-7fac690d905e)
 
 Foi criado um codigo simples consumindo a API de Blackjack que permite simular um jogo de blackjack em uma interface gráfica usando a biblioteca tkinter. O jogo é jogado contra um baralho de cartas embaralhado e permite que o usuário peça cartas para tentar chegar o mais próximo possível de 21 pontos sem ultrapassar esse valor.
 
-<h2>- Pré-requisitos </h2>
+<h2> Pré-requisitos </h2>
   Necessario Python 3.xx
   * requests: Usada para fazer solicitações HTTP à API de baralho de cartas.
   * tkinter: Biblioteca de interface gráfica para criar a interface do jogo.
   * Pillow: Usada para manipulação de imagens, exibição das cartas de baralho.
  
   
-<h2># Requeriments do projeto com suas versões</h2>
+<h2> Requeriments do projeto com suas versões</h2>
 <p>certifi==2023.7.22</p>
 <p>charset-normalizer==3.2.0</p>
 <p>filelock==3.12.3</p>
