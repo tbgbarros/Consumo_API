@@ -7,7 +7,7 @@
 Foi criado um codigo simples consumindo a API de Blackjack que permite simular um jogo de blackjack em uma interface gráfica usando a biblioteca tkinter. O jogo é jogado contra um baralho de cartas embaralhado e permite que o usuário peça cartas para tentar chegar o mais próximo possível de 21 pontos sem ultrapassar esse valor.
 
 <h2> Pré-requisitos </h2>
-  Necessario Python 3.xx
+  <br>Necessario Python 3.xx
   <br>* requests: Usada para fazer solicitações HTTP à API de baralho de cartas.
   <br>* tkinter: Biblioteca de interface gráfica para criar a interface do jogo.
   <br>* Pillow: Usada para manipulação de imagens, exibição das cartas de baralho.
