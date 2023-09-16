@@ -1,5 +1,3 @@
-# Consumo_API
-
 <h1> API de BLACKJACK (21) em Python</h1>
 
 ![image](https://github.com/tbgbarros/Consumo_API/assets/111811766/2d56623d-9ff6-465d-8ab8-7fac690d905e)
